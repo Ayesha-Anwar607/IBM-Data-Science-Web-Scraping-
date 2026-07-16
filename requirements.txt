@@ -1,0 +1,15 @@
+# Web Scraping & HTTP Requests
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.2.2
+html5lib==1.1
+
+# Data Manipulation & Analysis
+pandas==2.2.2
+numpy==1.26.4
+
+# Financial Data (Used in the IBM stock scraping lab)
+yfinance==0.2.40
+
+# Environment / Core
+jupyter==1.0.0
